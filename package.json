@@ -1,0 +1,26 @@
+{
+  "name": "ui",
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "lerna run --stream build",
+    "build-local": "lerna run --stream build-local",
+    "build-storybook": "lerna run --stream build-storybook",
+    "dev": "lerna run --stream dev",
+    "install-all": "lerna run --stream install",
+    "start": "lerna run --parallel --stream start",
+    "storybook": "lerna run --parallel --stream storybook",
+    "stryker": "lerna run --parallel --stream stryker",
+    "test": "lerna run --stream --no-bail test"
+  },
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "lerna": "^8.1.3"
+  },
+  "packageManager": "yarn@4.2.2"
+}
