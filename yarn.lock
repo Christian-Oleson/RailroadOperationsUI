@@ -5598,7 +5598,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"baseline-browser-mapping@npm:^2.11.20":
+"baseline-browser-mapping@npm:^2.11.20, baseline-browser-mapping@npm:^2.9.0":
   version: 2.11.23
   resolution: "baseline-browser-mapping@npm:2.11.23"
   bin:
