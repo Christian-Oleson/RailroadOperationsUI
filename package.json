@@ -26,18 +26,52 @@
     "@types/react": "^18.3.31",
     "@types/react-dom": "^18.3.7",
     "axios": "^1.20.0",
+    "cacache/tar": "^7.5.22",
     "follow-redirects": "^1.16.0",
-    "serialize-javascript": "^6.0.2",
+    "lerna/js-yaml": "^4.3.2",
+    "lerna/pacote": "^21.5.1",
+    "lerna/tar": "^7.5.22",
+    "node-gyp/tar": "^7.5.22",
+    "nx/brace-expansion": "^5.0.9",
+    "nx/smol-toml": "^1.8.0",
+    "serialize-javascript": "^7.1.1",
     "single-spa": "^6.0.3",
+    "socks/ip-address": "^10.7.0",
+    "sockjs/uuid": "^14.0.2",
+    "webpack-dev-server/http-proxy-middleware": "^3.0.7",
     "yaml": "^2.9.1"
   },
   "overrides": {
     "@types/react": "^18.3.31",
     "@types/react-dom": "^18.3.7",
     "axios": "^1.20.0",
+    "cacache": {
+      "tar": "^7.5.22"
+    },
     "follow-redirects": "^1.16.0",
-    "serialize-javascript": "^6.0.2",
+    "lerna": {
+      "js-yaml": "^4.3.2",
+      "pacote": "^21.5.1",
+      "tar": "^7.5.22"
+    },
+    "node-gyp": {
+      "tar": "^7.5.22"
+    },
+    "nx": {
+      "brace-expansion": "^5.0.9",
+      "smol-toml": "^1.8.0"
+    },
+    "serialize-javascript": "^7.1.1",
     "single-spa": "^6.0.3",
+    "socks": {
+      "ip-address": "^10.7.0"
+    },
+    "sockjs": {
+      "uuid": "^14.0.2"
+    },
+    "webpack-dev-server": {
+      "http-proxy-middleware": "^3.0.7"
+    },
     "yaml": "^2.9.1"
   },
   "packageManager": "yarn@4.2.2+sha512.c44e283c54e02de9d1da8687025b030078c1b9648d2895a65aab8e64225bfb7becba87e1809fc0b4b6778bbd47a1e2ab6ac647de4c5e383a53a7c17db6c3ff4b"
