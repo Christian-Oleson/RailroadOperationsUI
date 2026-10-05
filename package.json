@@ -64,7 +64,7 @@
     "serialize-javascript": "^7.1.2",
     "single-spa": "^6.0.3",
     "socks": {
-      "ip-address": "^10.7.0"
+      "ip-address": "^10.7.3"
     },
     "sockjs": {
       "uuid": "^14.0.2"
