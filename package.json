@@ -34,7 +34,7 @@
     "node-gyp/tar": "^7.5.22",
     "nx/brace-expansion": "^5.0.9",
     "nx/smol-toml": "^1.8.0",
-    "serialize-javascript": "^7.1.1",
+    "serialize-javascript": "^7.1.2",
     "single-spa": "^6.0.3",
     "socks/ip-address": "^10.7.0",
     "sockjs/uuid": "^14.0.2",
@@ -61,7 +61,7 @@
       "brace-expansion": "^5.0.9",
       "smol-toml": "^1.8.0"
     },
-    "serialize-javascript": "^7.1.1",
+    "serialize-javascript": "^7.1.2",
     "single-spa": "^6.0.3",
     "socks": {
       "ip-address": "^10.7.0"
